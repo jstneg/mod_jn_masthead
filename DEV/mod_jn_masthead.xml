@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="module" version="3.1" client="site" method="upgrade">
-    <name>jN Masthead Module</name>
+    <name>jsN Masthead Module</name>
     <author>J.S. Negley</author>
     <creationDate>31 OCT 2014</creationDate>
     <copyright>J.S. Negley LLC</copyright>
-    <license>http://www.gnu.org/licenses/gpl-3.0.html GNU/GPL version 3</license>
+    <license>GNU/GPL version 3 (http://www.gnu.org/licenses/gpl-3.0.html)</license>
 
     <authorUrl>http://www.jsnegley.net</authorUrl>
     <version>1.0.0</version>
